@@ -33,7 +33,7 @@ const ConnectButton = () => {
 const PageLayout = ({ children }) => (
   <div className="container pb-12">
     <div className="flex items-center justify-between pt-3 pb-16">
-      <div className="text-lg font-semibold">Azuro Betting Website</div>
+      <div className="text-lg font-semibold">Football</div>
       <div className="flex space-x-8">
         <Link className="text-md" href="/">Events</Link>
         <Link className="text-md" href="/bets-history">Bets History</Link>
